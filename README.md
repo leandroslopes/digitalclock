@@ -4,7 +4,7 @@ This application built on HTML, CSS and JavaScript, allows you to see the curren
 
 ## Demo
 
-* [Digital Clock](https://mytestcaema.netlify.app/#/ "Digital Clock")
+* [Digital Clock](https://leandroslopes.github.io/digitalclock/ "Digital Clock")
 
 ## Screens
 
