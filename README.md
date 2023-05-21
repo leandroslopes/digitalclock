@@ -8,7 +8,7 @@ This application built on HTML, CSS and JavaScript, allows you to see the curren
 
 ## Screens
 
-![Digital Clock](my-test-titan-software-screen.png?raw=true "Digital Clock")
+![Digital Clock](screen_digitalclock.png?raw=true "Digital Clock")
 
 ## Skills
 
