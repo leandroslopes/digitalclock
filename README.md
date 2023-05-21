@@ -6,6 +6,10 @@ This application built on HTML, CSS and JavaScript, allows you to see the curren
 
 * [Digital Clock](https://mytestcaema.netlify.app/#/ "Digital Clock")
 
+## Screens
+
+![Digital Clock](my-test-titan-software-screen.png?raw=true "Digital Clock")
+
 ## Skills
 
 * HTML
